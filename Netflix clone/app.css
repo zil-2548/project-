@@ -1,0 +1,93 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* background-color: rgba(0, 0, 0, 0.761) */
+}
+body {
+  background: #000;
+  color: #fff;
+}
+.hader {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(./header-image.png);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8%;
+    position: relative;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn button{
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    /* background: transparent; */
+}
+.logoimg{
+    width: 150px;
+    cursor: pointer;
+}
+#dowimg {
+
+    display: inline-flex;
+    align-items: center;
+    padding: 7px 10px;
+    border: 1px solid #fff;
+    color: black;
+    background: transparent;
+}
+#signin{
+    background-color: red;
+    width: 100px;
+}
+.main{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  margin-top: 100px;
+}
+.main h1{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 70px;
+    max-width: 650px;
+}
+.main h3{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.input{
+    background-color: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.input input{
+    flex: 1;
+    border: 0;
+    outline: 0;
+    margin-left: 20px;
+}
+.input button{
+    background: #db0001;
+    border: 0;
+    outline:0;
+    color:#fff;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 15px;
+}
