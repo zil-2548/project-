@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#mainh1{
+    color: rgb(65, 160, 238);
+    margin-left: 2%;
+    
+}
+.firstsn{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: rgb(65, 238, 235); ;
+    background-color: rgb(250, 185, 87);
+}
+.secoddiv{
+    color: rgb(65, 160, 238);
+    margin-left: 2%;   
+}
+.secondsn{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: rgb(65, 238, 235); ;
+    background-color: rgb(250, 185, 87);
+}
+
+
+

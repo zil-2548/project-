@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+
+}
+.hading1{
+
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    border: solid 5px;
+    border-color: white;
+    color: rgb(88, 88, 190);
+}
+.sarchbar{
+    display: flex;
+    margin-left: 70%;
+    height: 20px;
+
+
+ 
+}
+.buttonone{
+    width: 50px;
+    height: 20px;
+}
+.naveli{
+   display: flex;
+   padding: 10px;
+
+   
+
+    
+}
+.naveul{
+    display: flex;
+    margin: 0px;
+    
+ }
+
+ .firstdiv{
+    background-color: rgb(161, 95, 222);
+}
+
+.box1{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 95px;
+    
+
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-right: 30px;
+
+}
+
+.box3{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    margin-right: 30px;
+
+}
+.box4{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    
+  
+
+}
+.box5{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    margin-top: 30px;
+    margin-left: 250px;
+
+}
+.box6{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.box7{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+}    
+
+#content{
+    margin-top: 30px;
+   
+    
+}
+#audieimage{
+ height: 150px;
+ width: 150px;
+ margin-left: 25%;
+}
+#bmwimage{
+    height: 150px;
+    width: 150px;
+    margin-left: 25%;
+}
+#vsimage{
+    height: 150px;
+    width: 150px;
+    margin-left: 25%;
+}
+#discoveyimg{ 
+    height: 150px;
+    width: 150px;
+    margin-left: 25%;
+}
+.Buy{
+    margin-left: 40%;  
+    width: 50px;
+    height: 30px;  
+}

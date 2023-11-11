@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    flex-direction:row;
+  
+}
+.ul-li{
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
